@@ -122,3 +122,10 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Support
 
 For support, issues, or feature requests, please file an issue in the GitHub repository.
+## screenshot
+![Screenshot from 2025-01-31 19-09-17](https://github.com/user-attachments/assets/e966ca85-b6ca-41d4-8a59-8011544c9c15)
+![Screenshot from 2025-01-31 19-09-09](https://github.com/user-attachments/assets/706fee98-69b7-4326-a23b-f16efb132f86)
+
+
+
+##
